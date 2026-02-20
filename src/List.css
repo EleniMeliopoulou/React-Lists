@@ -1,0 +1,32 @@
+h1,
+li {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    background-color: blueviolet;
+    width: 100%;
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+ul {
+    width: 100%;
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+    height: 100%;
+}
+
+li:hover {
+    background-color: hsla(0, 0%, 95%, 0.908);
+}
+
+hr {
+    margin-top: 2px;
+    width: 100%;
+}
