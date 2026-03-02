@@ -6,20 +6,20 @@ function App() {
   const [showSnacks, setShowSnacks] = useState(false);
 
 
-  const fruits = [{ id: 0, name: "apple", calories: 5 },
-  { id: 1, name: "orange", calories: 3 },
-  { id: 2, name: "pear", calories: 3 },
-  { id: 3, name: "grape", calories: 2 },
-  { id: 4, name: "pineapple", calories: 4 },
-  { id: 5, name: "melon", calories: 5 }
+  const fruits = [{ id: 0, name: "apple", calories: 95 },
+  { id: 1, name: "orange", calories: 66 },
+  { id: 2, name: "pear", calories: 101 },
+  { id: 3, name: "grape", calories: 3.8 },
+  { id: 4, name: "pineapple", calories: 50 },
+  { id: 5, name: "melon", calories: 86 }
   ]
 
-  const snacks = [{ id: 6, name: "potato chips", calories: 35 },
-  { id: 7, name: "lolipop", calories: 30 },
-  { id: 8, name: "biscuits", calories: 43 },
-  { id: 9, name: "candy", calories: 28 },
-  { id: 10, name: "chocolate", calories: 43 },
-  { id: 11, name: "jelly", calories: 51 }
+  const snacks = [{ id: 6, name: "potato chips", calories: 536 },
+  { id: 7, name: "lollipop", calories: 110 },
+  { id: 8, name: "biscuits", calories: 250 },
+  { id: 9, name: "candy", calories: 535 },
+  { id: 10, name: "chocolate", calories: 545 },
+  { id: 11, name: "jelly", calories: 60 }
   ]
 
   const handleClick = (e) => {

@@ -6,7 +6,7 @@ function List(props) {
 
     const itemList = listItems.map(item => <>
         <li key={item.id}>
-            {item.name}, {item.calories} cal
+            {item.name}, {item.calories} kcal
         </li><hr />
     </>
     )

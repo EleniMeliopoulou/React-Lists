@@ -9,3 +9,7 @@ button {
     height: 60px;
     border-color: rgb(130, 205, 208);
 }
+
+button:hover {
+    cursor: pointer;
+}
