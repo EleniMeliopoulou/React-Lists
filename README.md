@@ -5,7 +5,7 @@ The lists were built using React. One list contains healthy foods, while the oth
 ---
 
 ## Technologies Used
-* *Front-End:*
+* **Front-End:**
     * React with Vite 
     * CSS 
 
